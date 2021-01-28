@@ -33,4 +33,4 @@ getPrimeFactor(10);
 600851475143 = 71 · 839 · 1471 · 6857
 */
 
-// console.log(primesNumbers);
+console.log(primesNumbers);
